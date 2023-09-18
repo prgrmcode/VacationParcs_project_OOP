@@ -7,6 +7,38 @@
 *.o
 *.obj
 
+# Ignore build directories
+/build/
+/bin/
+
+# Ignore IDE specific files
+.vscode/
+.vs/
+x64/
+*.suo
+*.sln
+*.user
+*.tssess
+*.ide
+
+# Visual Studio generated files and folders
+*.suo
+*.user
+*.sln.docstates
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+
+# Ignore dependency folders
+/dependencies/
+
+# Ignore generated files
+Makefile
+
 # Precompiled Headers
 *.gch
 *.pch
