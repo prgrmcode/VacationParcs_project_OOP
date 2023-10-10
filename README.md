@@ -16,6 +16,7 @@
 - [Diagrams](#diagrams)
 
 ## Overview
+![project overview](./diagrams/project.PNG)
 
 The VacationParcs Management System is a comprehensive C++ application designed to streamline the management and rental process of accommodations within vacation parks. This system empowers owners, employees, and customers with intuitive tools tailored to their specific needs.
 
@@ -102,6 +103,8 @@ make
 
 
 ## Usage
+
+![workflow](./diagrams/project%20workflow.PNG)
 
 ### Detailed Instructions
 
